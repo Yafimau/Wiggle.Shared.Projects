@@ -1,0 +1,5 @@
+*.suo
+Debug
+*.user
+NUnit.3.0.1
+Newtonsoft.Json.7.0.1
